@@ -1,6 +1,3 @@
-﻿//houssem.dellai@ieee.org 
-//+216 95 325 964 
-
 using System;
 using System.Windows;
 using System.Windows.Controls;
